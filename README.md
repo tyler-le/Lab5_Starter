@@ -1,5 +1,5 @@
 # Lab 5 - Starter
-Individual Lab (No lab partner)
+Individual Lab by Tyler Le (No lab partner)
 
 https://github.com/tyler-le/introduction-to-github
 
